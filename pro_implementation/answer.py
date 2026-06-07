@@ -9,6 +9,9 @@
 
 # load_dotenv(override=True)
 
+# RUN the file:  cd c:\Users\Pranav Jain\Desktop\Personal\AI_Course\personal_project\RAG
+# >> C:\venv_rag\Scripts\python.exe pro_implementation\answer.py
+
 # # =========================
 # # CONFIG
 # # =========================
